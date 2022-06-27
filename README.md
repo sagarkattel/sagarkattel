@@ -6,7 +6,7 @@
 ### <div align="center">I'm Sagar, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Blog Website](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on Blog Website 
   
 
 - 🌱 I’m currently studying Computer Engineering   
