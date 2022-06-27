@@ -1,5 +1,5 @@
-### <div align="center">Hello Guys</div>  
-### <div align="center">Welcome To My Github Profile</div> 
+### <div align="center">👋 Hello Guys 👋</div>  
+### <div align="center">🙏 Welcome To My Github Profile 🙏</div> 
   
 
 ### <div align="center">I'm Sagar, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
