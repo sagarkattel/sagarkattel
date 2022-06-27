@@ -1,6 +1,4 @@
-###<div align="center">
-Hello World
-</div>  
+### <div align="center">Hello World</div>  
   
 
 ### <div align="center">I'm Sagar, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
