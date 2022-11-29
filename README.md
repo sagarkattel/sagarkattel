@@ -5,7 +5,7 @@
 ### <div align="center">I'm Sagar, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on Blog Website 
+- 🔭 I’m currently working on BlockChain Technology
   
 
 - 🌱 I’m currently studying Computer Engineering   
