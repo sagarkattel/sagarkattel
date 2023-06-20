@@ -5,13 +5,13 @@
 ### <div align="center">I'm Sagar, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on BlockChain Technology
+- 🔭 I’m currently working on Full Stack Technology
   
 
 - 🌱 I’m currently studying Computer Engineering   
   
 
-- ❓ Ask me about anything related to ReactJS and related technologies  
+- ❓ Ask me about anything related to ReactJS and NodeJS
   
 
 - ⚡ Fun fact: I use tabs over spaces  
