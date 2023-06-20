@@ -2,7 +2,7 @@
 ### <div align="center">🙏 Welcome To My Github Profile 🙏</div> 
   
 
-### <div align="center">I'm Sagar, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Sagar, a full-time full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working on Full Stack Technology
