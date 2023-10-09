@@ -1,5 +1,5 @@
-### <div align="center">👋 Hello Techies 👋</div>  
-### <div align="center">🙏 Welcome To My Github Profile 🙏</div> 
+<h1 align="center">Hi 👋, I'm Sagar Kattel</h1>
+<h3 align="center">Tech Entrepreneur</h3>
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkattel&label=Profile%20views&color=0e75b6&style=flat" alt="subhashishjungshah" /> </p>
